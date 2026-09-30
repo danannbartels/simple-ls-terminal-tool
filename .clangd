@@ -1,3 +1,0 @@
-CompileFlags:
-  Remove: [-std=*, -x]
-  Add: [-xc, -std=c99]
